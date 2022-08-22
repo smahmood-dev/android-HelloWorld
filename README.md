@@ -28,8 +28,6 @@ GIF created with [Recordit](https://recordit.co/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-
 Encountered some difficulty with the ImageView component of the app. The image would properly display in the Design tab, but not in the emulator itself. After troubleshooting the constraints and cropping method, I consulted an existing Stack Overflow thread which resolves the issue. Turns out the default Kotlin code for the ImageView needed to be modified for it to display the image in the emulator. 
 
 ## License
